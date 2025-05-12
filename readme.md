@@ -7,6 +7,7 @@ The **Credit Card Generator** is a simple web-based tool developed using HTML, C
 ## 🌐 Demo
 
 > **Live Preview:** https://credit-card-generator000.netlify.app/
+
 > *(Or open `index.html` in your browser to view locally)*
 
 ---
@@ -54,29 +55,33 @@ The generator creates card numbers that:
 ---
 
 ⚠️ Disclaimer
-This tool is for educational and testing purposes only. It does not create real or usable financial data. Do not attempt to use generated numbers for any fraudulent or illegal activity.
+
+- This tool is for educational and testing purposes only. It does not create real or usable financial data. Do not attempt to use generated numbers for any fraudulent or illegal activity.
 
 ---
 
 ✨ Future Improvements
-Add more card brands (AmEx, Discover, etc.)
 
-Add expiry date and CVV generator
+- Add more card brands (AmEx, Discover, etc.)
 
-Add export to CSV
+- Add expiry date and CVV generator
 
-Integrate dark mode UI
+- Add export to CSV
+
+- Integrate dark mode UI
 
 ---
 
 👨‍💻 Author
-E-mail: ritikanand.02062000@gmail.com
-GitHub: https://github.com/RitikAnand02
-LinkeDin: https://www.linkedin.com/in/ritik-anand-063b36313/
+
+- E-mail: ritikanand.02062000@gmail.com
+- GitHub: https://github.com/RitikAnand02
+- LinkeDin: https://www.linkedin.com/in/ritik-anand-063b36313/
 
 ---
 
 📄 License
+
 This project is licensed under the MIT License.
 
 ---
